@@ -58,7 +58,7 @@
 - Add Student Page
 <img src="https://drive.google.com/uc?export=view&id=15kbP1tP_Q5NxMd2JRMzfwy_2uhxMC73W" alt="Question Image 1" width="800" height="400">
 - Edit Student Page
-<img src="https://drive.google.com/uc?export=view&id=1IUQfA9LlyKDitUNanluLr4QlHssHGaHc" alt="Question Image 1" width="800" height="400">
+<img src="https://drive.google.com/uc?export=view&id=1v-A8UTUwHiIdWo-6C9CUwSuf4oJypr-E" alt="Question Image 1" width="800" height="400">
 - Delete Student 
 <img src="https://drive.google.com/uc?export=view&id=1bA8HN9HeZ736EQYLWS-Y1lSqaNVaMZCY" alt="Question Image 1" width="800" height="400">
 - Contact Page
