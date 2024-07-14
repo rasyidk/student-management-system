@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" layout:decorate="~{layout}">
+<head>
+  <title>Students</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10.12.5/dist/sweetalert2.min.css">
+</head>
+<body>
+<main layout:fragment="content">
+<div class="container">
+  <h1 class="mt-5">Student List</h1>
+  <div class="d-flex justify-content-end mb-3">
+    <a href="/students/new" class="btn btn-success">Add New Student</a>
+  </div>
+  <table class="table table-striped mt-3">
+    <thead>
+    <tr>
+      <th>Nomor Induk Mahasiswa</th>
+      <th>Nama Lengkap</th>
+      <th>Usia</th>
+      <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="student : ${students}">
+      <td th:text="${student.id}">ID</td>
+      <td th:text="${student.namaLengkap}">Full Name</td>
+      <td th:text="${student.usia}">Age</td>
+      <td>
+        <a th:href="@{/students/edit/{id}(id=${student.id})}" class="btn btn-primary btn-sm">Edit</a>
+        <a th:href="@{/students/delete/{id}(id=${student.id})}" class="btn btn-danger btn-sm"
+           th:attr="data-student-id=${student.id}" onclick="confirmDelete(event)">Delete</a>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.12.5/dist/sweetalert2.min.js"></script>
+<script src="/js/deleteConfirmation.js"></script>
+
+</main>
+</body>
+</html>
