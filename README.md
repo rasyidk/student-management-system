@@ -51,15 +51,15 @@
 - JS
 
 ## Result :
-### Home Page
+- Home Page
 <img src="https://drive.google.com/uc?export=view&id=1IUQfA9LlyKDitUNanluLr4QlHssHGaHc" alt="Question Image 1" width="400" height="400">
-### Student List Page
+- Student List Page
 <img src="https://drive.google.com/uc?export=view&id=1IUQfA9LlyKDitUNanluLr4QlHssHGaHc" alt="Question Image 1" width="400" height="400">
-### Add Student Page
+- Add Student Page
 <img src="https://drive.google.com/uc?export=view&id=1IUQfA9LlyKDitUNanluLr4QlHssHGaHc" alt="Question Image 1" width="400" height="400">
-### Edit Student Page
+- Edit Student Page
 <img src="https://drive.google.com/uc?export=view&id=1IUQfA9LlyKDitUNanluLr4QlHssHGaHc" alt="Question Image 1" width="400" height="400">
-### Delete Student 
+- Delete Student 
 <img src="https://drive.google.com/uc?export=view&id=1IUQfA9LlyKDitUNanluLr4QlHssHGaHc" alt="Question Image 1" width="400" height="400">
-### Contact Page
+- Contact Page
 <img src="https://drive.google.com/uc?export=view&id=1IUQfA9LlyKDitUNanluLr4QlHssHGaHc" alt="Question Image 1" width="400" height="400">
