@@ -3,7 +3,7 @@
 ### Rasyid Kusnady - Universitas Gadjah Mada
 
 ## Question :
-<img src="https://drive.google.com/file/d/1IUQfA9LlyKDitUNanluLr4QlHssHGaHc/view?usp=sharing" alt="Question Image" width="400" height="400">
+<img src="https://drive.google.com/file/d/1IUQfA9LlyKDitUNanluLr4QlHssHGaHc" alt="Question Image" width="400" height="400">
 
 ## Answer :
 
