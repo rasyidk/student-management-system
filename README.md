@@ -2,7 +2,7 @@
 
 ### Rasyid Kusnady - Universitas Gadjah Mada
 
-![Image](URL_TO_QUESTION_IMAGE)
+![Image]([URL_TO_QUESTION_IMAGE](https://drive.google.com/file/d/1obVEMCh7YKN-STPRoAbFn0urt90Almuc/view?usp=sharing))
 
 ## Tech Stack
 1. Java Spring Boot
