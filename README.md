@@ -10,7 +10,7 @@
 ## Tech Stack
 1. Java Spring Boot
 2. Thymeleaf
-3. MySQL
+3. MySQL (https://drive.google.com/file/d/1JSLoNHPtNz1Dbz89MoEKG2CRyTvIK4Tc/view?usp=sharing)
 
 ## Architecture 
 
